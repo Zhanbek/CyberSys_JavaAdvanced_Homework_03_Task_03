@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println();
         stringBuilder.append("Початковий рядок: '").append(text).append("' має довжину ").append(length);
-        System.out.println(stringBuilder.toString());
+        System.out.println(stringBuilder);
 
 
         System.out.println();
